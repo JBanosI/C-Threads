@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1695685622 source:d:\9cv13-12\sist. en timepo real\5 practica\caallos\main.cpp
+	<iostream>
+	<iostream>
+	"graphics.h"
+	<thread>
+	<chrono>
+
+1557858378 d:\9cv13-12\sist. en timepo real\5 practica\caallos\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1695957380 source:e:\9cv13-12\sist. en timepo real\5 practica\caallos\main.cpp
+	<iostream>
+	<iostream>
+	"graphics.h"
+	<thread>
+	<chrono>
+
+1557858378 e:\9cv13-12\sist. en timepo real\5 practica\caallos\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1695957380 source:e:\9cv13-12\sist. en timepo real\git\racehorse_thread\main.cpp
+	<iostream>
+	<iostream>
+	"graphics.h"
+	<thread>
+	<chrono>
+
+1557858378 e:\9cv13-12\sist. en timepo real\git\racehorse_thread\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+

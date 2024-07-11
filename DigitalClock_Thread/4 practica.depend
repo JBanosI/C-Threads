@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1695957618 source:e:\9cv13-12\sist. en timepo real\4 practica\main.cpp
+	<iostream>
+	"graphics.h"
+	<thread>
+	<chrono>
+	<string.h>
+
+1557858378 e:\9cv13-12\sist. en timepo real\4 practica\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
